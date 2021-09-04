@@ -1,5 +1,5 @@
 Hi, My name is Quincy! I am a fairly recent university graduate with a bachelor's degree in economics, and statistics,
-so I am relatively new to the data world. With there being so much to learn, this repository will consist of personal 
+so I am relatively new to the data world. With there being so much to learn, this page will consist of personal 
 projects that test my knowledge, and track my development as a data professional. 
 
 
